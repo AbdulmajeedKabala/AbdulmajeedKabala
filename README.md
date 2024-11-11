@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Kabala</h1>
 <h3 align="center">A passionate software developer from Atlanta, Georgia</h3>
 
-- 🔭 I’m currently working on [Instagram Follower Tracker](https://github.com/AbdulmajeedKabala/Instagram-Follower-Tracker)
+- 🔭 I’m currently working on Machine Learning
 
 - 🌱 I’m currently learning **Bootstrap, jQuery,SASS, Redux, and More...**
 
