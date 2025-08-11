@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Kabala</h1>
-<h3 align="center">A passionate software developer from Atlanta, Georgia</h3>
+<h3 align="center">A passionate machine learning engineer from Atlanta, Georgia</h3>
 
 - 🔭 I’m currently working on Web Scraping with AI
 
-- 🌱 I’m currently learning **Computer Vision, jQuery, Redux, and More...**
+- 🌱 I’m currently learning **PyTorch, Machine Vision, Prompt Engineering, and More...**
 
 - 👯 I’m looking to collaborate on **exciting and innovative projects**
 
