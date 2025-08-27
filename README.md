@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning PyTorch, Machine Vision, Prompt Engineering, and More...<br><br>👯 I’m looking to collaborate on exciting and innovative projects<br><br>👨‍💻 All of my projects are available at https://github.com/AbdulmajeedKabala<br><br>📫 How to reach me abdulakabala06@gmail.com<br><br>⚡ Fun fact I am a good swimmer</p>
+<p align="left">🌱 I’m currently learning PyTorch, Machine Vision, Prompt Engineering, and More...<br><br>👯 I’m looking to collaborate on exciting and innovative projects<br><br>👨‍💻 All of my projects are available at: https://github.com/AbdulmajeedKabala<br><br>📫 How to reach me: abdulakabala06@gmail.com<br><br>⚡ Fun fact I am a good swimmer</p>
 
 ###
 
