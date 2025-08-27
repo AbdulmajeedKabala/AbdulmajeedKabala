@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Abdulmajeed Kabala, and I'm a passionate AI engineer, from Atlanta, Georgia</p>
+<p align="left">My name is Abdulmajeed Kabala, and I'm a passionate AI/ML engineer, from Atlanta, Georgia</p>
 
 ###
 
